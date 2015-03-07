@@ -54,7 +54,7 @@ class sendSms{
 	}
 
 	/* *
-	 * 短信发送手机验证码（用户注册时）
+     * 短信发送手机验证码（用户注册时）
      * @param str    $mobile     目标手机号
      * @param int    $send_code  对照码，防用户恶意请求
 	*/
